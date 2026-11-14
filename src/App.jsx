@@ -51,7 +51,7 @@ const skillGroups = [
   {
     title: "Languages & Tools",
     icon: Terminal,
-    items: ["Java", "Git", "GitHub", "VS Code"],
+    items: ["Java", "Python", "Git", "GitHub"],
   },
 ];
 
@@ -62,7 +62,7 @@ const projects = [
     description:
       "A full-stack MERN recipe platform where users can browse recipes, sign up securely and manage their own content, backed by a REST API and MongoDB.",
     tech: ["React", "Node.js", "Express.js", "MongoDB"],
-    demo: "https://cooks-corner-j4wh.vercel.app?_vercel_share=HYngdhGXFdL9lljodL07UzGvNgt6Nl2W",
+    demo: "https://cooks-corner-j4wh.vercel.app",
     github: "https://github.com/pathanaliya/Cooks_Corner.git",
   },
   {
