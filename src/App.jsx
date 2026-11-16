@@ -51,7 +51,7 @@ const skillGroups = [
   {
     title: "Languages & Tools",
     icon: Terminal,
-    items: ["Java", "Python", "Git", "GitHub"],
+    items: ["Java", "Git", "GitHub"],
   },
 ];
 
